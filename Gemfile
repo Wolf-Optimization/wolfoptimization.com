@@ -5,5 +5,5 @@ gemspec
 
 #gem jekyll-seo-tag
 
-#gem "moonwalk"
+gem "moonwalk"
 
