@@ -5,18 +5,21 @@ navbar_entries:
   - title: blog
     url: blog
 
+  - title: contact
+    url: contact
+
   #- title: website
   #  url: https://www.abhinav.co
 
 project_entries:
   - title: Introduction
-    url: overview-post
-    desc: An overview of the Wolf Optimization solver capabilities.
+    url: overview
+    desc: An overview of the Wolf Optimization solver functionality.
     #desc: This is an example project, configured in _data/home.yml
 
   - title: User manual
     url: user-manual
-    desc: Wolf PDF user manual
+    desc: Wolf user manual and relevant reference material.
 
 #  - title: Project 3
 #    url: overview-post
